@@ -1,3 +1,4 @@
+
 ## Screenshots
 
-![Screenshot](https://github.com/puran66/Voting-app-ReactJs/blob/main/Images/Main.png)
+![Screenshot](https://github.com/puran66/ShortURL-NodeJs-Project/blob/main/images/screenshot.png)
